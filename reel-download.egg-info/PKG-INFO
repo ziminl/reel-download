@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: reel-download
+Version: 1.0
+Summary: Download Instagram Reel.
+Home-page: https://github.com/ziminl/reel-download
+Author: z
+License: MIT
+Keywords: instagram,Download Reels,Videos,Photos
+
+# reel-download
+pip of reel download server
+
+
+
+# Usage :
+
+`from DownloadReels import host`
