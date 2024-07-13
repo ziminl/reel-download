@@ -46,3 +46,7 @@ register https://pypi.org/
 > apt install twine
 > twine upload dist/<file>.whl
 
+
+#pip pipeline in pipyorg
+
+https://www.youtube.com/watch?v=90PWQEc--6k
